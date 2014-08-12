@@ -15,8 +15,80 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "21"
             endingLineNumber = "21"
-            landmarkName = "buttonPressed(_:)"
-            landmarkType = "7">
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Class_Roster.ViewController.lastNameArr.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Class Roster"
+                  urlString = "file:///Users/christieferderer/Documents/real%20iOS/Class%20Roster/Class%20Roster/ViewController.swift"
+                  timestampString = "429561963.513548"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Class_Roster.ViewController.lastNameArr.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Class Roster"
+                  urlString = "file:///Users/christieferderer/Documents/real%20iOS/Class%20Roster/Class%20Roster/ViewController.swift"
+                  timestampString = "429561963.515051"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Class_Roster.ViewController.init (Class_Roster.ViewController.Type)(nibName : Swift.ImplicitlyUnwrappedOptional&lt;Swift.String&gt;, bundle : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSBundle&gt;) -&gt; Class_Roster.ViewController"
+                  moduleName = "Class Roster"
+                  urlString = "file:///Users/christieferderer/Documents/real%20iOS/Class%20Roster/Class%20Roster/ViewController.swift"
+                  timestampString = "429561963.515228"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "2625">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Class_Roster.ViewController.init (Class_Roster.ViewController.Type)() -&gt; Class_Roster.ViewController"
+                  moduleName = "Class Roster"
+                  urlString = "file:///Users/christieferderer/Documents/real%20iOS/Class%20Roster/Class%20Roster/ViewController.swift"
+                  timestampString = "429561963.515369"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "3118">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Class_Roster.ViewController.init (Class_Roster.ViewController.Type)(coder : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSCoder&gt;) -&gt; Class_Roster.ViewController"
+                  moduleName = "Class Roster"
+                  urlString = "file:///Users/christieferderer/Documents/real%20iOS/Class%20Roster/Class%20Roster/ViewController.swift"
+                  timestampString = "429561963.515498"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "3128">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -33,6 +105,64 @@
             endingLineNumber = "15"
             landmarkName = "Person"
             landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Class_Roster.Person.lastName.getter : Swift.String"
+                  moduleName = "Class Roster"
+                  urlString = "file:///Users/christieferderer/Documents/real%20iOS/Class%20Roster/Class%20Roster/File.swift"
+                  timestampString = "429561963.517407"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Class_Roster.Person.lastName.setter : Swift.String"
+                  moduleName = "Class Roster"
+                  urlString = "file:///Users/christieferderer/Documents/real%20iOS/Class%20Roster/Class%20Roster/File.swift"
+                  timestampString = "429561963.517588"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Class Roster/ViewController.swift"
+            timestampString = "429561579.237647"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Class Roster/ViewController.swift"
+            timestampString = "429561580.677094"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
