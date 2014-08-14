@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2C3A209A199C15940092AFB9 /* rosterList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2C3A2099199C15940092AFB9 /* rosterList.plist */; };
+		2C3A209C199C47750092AFB9 /* detailViewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C3A209B199C47750092AFB9 /* detailViewViewController.swift */; };
 		2CA658061993DB1C005BEE2B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CA658051993DB1C005BEE2B /* AppDelegate.swift */; };
 		2CA658081993DB1C005BEE2B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CA658071993DB1C005BEE2B /* ViewController.swift */; };
 		2CA6580B1993DB1C005BEE2B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CA658091993DB1C005BEE2B /* Main.storyboard */; };
@@ -28,6 +29,7 @@
 
 /* Begin PBXFileReference section */
 		2C3A2099199C15940092AFB9 /* rosterList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = rosterList.plist; path = ../rosterList.plist; sourceTree = "<group>"; };
+		2C3A209B199C47750092AFB9 /* detailViewViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = detailViewViewController.swift; sourceTree = "<group>"; };
 		2CA658001993DB1C005BEE2B /* Class Roster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Class Roster.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CA658041993DB1C005BEE2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2CA658051993DB1C005BEE2B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -84,6 +86,7 @@
 				2C3A2099199C15940092AFB9 /* rosterList.plist */,
 				2CA658221993DB31005BEE2B /* File.swift */,
 				2CA658091993DB1C005BEE2B /* Main.storyboard */,
+				2C3A209B199C47750092AFB9 /* detailViewViewController.swift */,
 				2CA6580C1993DB1C005BEE2B /* Images.xcassets */,
 				2CA658031993DB1C005BEE2B /* Supporting Files */,
 			);
@@ -217,6 +220,7 @@
 			files = (
 				2CA658081993DB1C005BEE2B /* ViewController.swift in Sources */,
 				2CA658231993DB31005BEE2B /* File.swift in Sources */,
+				2C3A209C199C47750092AFB9 /* detailViewViewController.swift in Sources */,
 				2CA658061993DB1C005BEE2B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
